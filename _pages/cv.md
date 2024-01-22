@@ -7,34 +7,20 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
+<p align="left">
+<img src="/images/Pedro_Cataldi_CV__english_1.png"  width="700" height="200">
+</p>
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<p align="left">
+<img src="/images/Pedro_Cataldi_CV__english_2.png"  width="700" height="200">
+</p>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<p align="left">
+<img src="/images/Pedro_Cataldi_CV__english_3.png"  width="700" height="100">
+</p>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,6 +40,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
