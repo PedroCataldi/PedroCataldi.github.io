@@ -1,13 +1,13 @@
 ---
-title: "Assistant Professor in Classical Mechanics"
+title: "Assistant Professor in Cosmology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-1
 venue: "Department of Physics, Buenos Aires University, Faculty of Exact and Natural Sciences"
-date: 2024-03-01
+date: 2024-08-01
 location: "Buenos, Aires"
 ---
 
-Assistant teachin in Classical Mechanics
+Assistant teachin in Cosmology
 
-[More information here](https://materias.df.uba.ar/mca2024c1/)
+[More information here](https://materias.df.uba.ar/ca2024c2/)
