@@ -8,6 +8,6 @@ date: 2024-03-01
 location: "Buenos, Aires"
 ---
 
-Assistant teachin in Classical Mechanics
+Assistant teaching in Classical Mechanics
 
 [More information here](https://materias.df.uba.ar/mca2024c1/)

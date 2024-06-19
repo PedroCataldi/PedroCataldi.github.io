@@ -8,6 +8,6 @@ date: 2024-08-01
 location: "Buenos, Aires"
 ---
 
-Assistant teachin in Cosmology
+Assistant teaching in Cosmology
 
 [More information here](https://materias.df.uba.ar/ca2024c2/)
