@@ -12,7 +12,7 @@ header:
   image_path: "/artale2018.png"
 ---
 
-In this article, we study the properties of four Milky Way mass dark matter haloes from the Aquarius project during their assembly history, between z = 0−4.
+In this article, we study the properties of four Milky Way mass dark matter analogue haloes from the Aquarius project during their assembly history, between z = 0−4.
 
 [Download paper here](http://dx.doi.org/10.1051/0004-6361/201834096)
 
