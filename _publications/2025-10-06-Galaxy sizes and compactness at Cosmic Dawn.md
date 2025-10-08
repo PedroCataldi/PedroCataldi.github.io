@@ -14,7 +14,6 @@ header:
 
 JWST has revealed ultra-compact, massive galaxies at z ≳ 6, challenging current models. Using FirstLight simulations, we find a universal wet compaction phase—an expansion–compaction–re-expansion cycle driven by central baryon domination—that naturally explains the observed inverted size–mass relation at Cosmic Dawn.
 
-
 [Download paper here](https://arxiv.org/abs/2510.05299)
 
 Recommended citation: Cataldi et. al. (2025)
