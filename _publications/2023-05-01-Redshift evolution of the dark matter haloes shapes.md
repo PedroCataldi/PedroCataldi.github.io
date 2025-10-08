@@ -12,4 +12,4 @@ In this work, we aim at investigating the morphology evolution of Milky Way mass
 
 [Download paper here](https://doi.org/10.1093/mnras/stad1601)
 
-Recommended citation: Cataldi, et. al. (2023a)
+Recommended citation: Cataldi et. al. (2023a)

@@ -16,4 +16,4 @@ In this article, we study the properties of four Milky Way mass dark matter anal
 
 [Download paper here](http://dx.doi.org/10.1051/0004-6361/201834096)
 
-Recommended citation: Artale, et. al. (2019)
+Recommended citation: Artale et. al. (2019)

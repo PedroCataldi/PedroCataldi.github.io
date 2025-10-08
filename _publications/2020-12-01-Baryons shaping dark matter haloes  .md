@@ -12,4 +12,4 @@ In this work we aim at investigating the effects of baryons on the dark matter h
 
 [Download paper here](http://dx.doi.org/10.1093/mnras/staa3988)
 
-Recommended citation: Cataldi, et. al. (2020)
+Recommended citation: Cataldi et. al. (2020)

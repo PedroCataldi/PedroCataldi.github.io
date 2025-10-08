@@ -12,4 +12,4 @@ In this work, we search for detectable signatures of f(R) gravity and its chamel
 
 [Download paper here]( https://doi.org/10.1093/mnras/stac2122)
 
-Recommended citation: Cataldi, et. al. (2022)
+Recommended citation: Cataldi et. al. (2022)
