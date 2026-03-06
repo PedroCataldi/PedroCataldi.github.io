@@ -180,7 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  proceedings:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -229,7 +229,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: proceedings
     values:
       layout: single
       author_profile: true
