@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Proceedings"
+permalink: /proceedings/
+author_profile: true
+header:
+  teaser: "/proceedings_banner.jpg"
+  image_path: "/proceedings_banner.jpg"
+  overlay_image: "/proceedings_banner.jpg"
+---
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}

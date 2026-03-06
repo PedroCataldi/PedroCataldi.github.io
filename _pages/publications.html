@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+header:
+  teaser: "/publications_banner.jpg"
+  image_path: "/publications_banner.jpg"
+  overlay_image: "/publications_banner.jpg"
+---
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
