@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+header:
+  teaser: "/cv_banner.jpg"
+  image_path: "/cv_banner.jpg"
+  overlay_image: "/cv_banner.jpg"
+---
+
+{% for post in site.cv_banner reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
