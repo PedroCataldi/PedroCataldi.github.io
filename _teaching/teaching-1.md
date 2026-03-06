@@ -1,5 +1,5 @@
 ---
-title: "Assistant Professor in Classical Mechanics"
+title: "Teaching Fellow in Classical Mechanics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-1

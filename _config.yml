@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Pedro Cataldi"
   avatar           : "profile2.jpeg"
-  bio              : "I am a CONICET postdoc at the Instituto de Astronomía y Física del Espacio (IAFE) in Buenos Aires, Argentina. My research focuses on using numerical simulations to study galaxy formation and clustering."
-  location         : "Buenos Aires, Argentina"
-  employer         : CONICET-IAFE
+  bio              : "I am a postdoctoral researcher at the Instituto de Astronomía of the Universidad Nacional Autónoma de México (IA-UNAM) in Mexico City. My research focuses on using numerical simulations to study galaxy formation, galaxy sizes, and large-scale structure. I am also a member of the LSST Dark Energy Science Collaboration (DESC)."  
+  location         : "CDMX, Mexico"
+  employer         : "IA-UNAM"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=WNjhptsAAAAJ&hl=es" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ganegroup"
+  github           : "https://github.com/PedroCataldi"
   google_plus      :
   keybase          :
   instagram        :

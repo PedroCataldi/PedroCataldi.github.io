@@ -1,5 +1,5 @@
 ---
-title: "Assistant Professor in Cosmology"
+title: "Teaching Fellow in Cosmology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-1

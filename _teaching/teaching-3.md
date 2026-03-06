@@ -1,5 +1,5 @@
 ---
-title: "Assistant Professor in Analysis II Curse 8"
+title: "Teaching Fellow in Analysis II Curse 8"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-3

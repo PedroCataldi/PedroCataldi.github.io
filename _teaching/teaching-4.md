@@ -1,5 +1,5 @@
 ---
-title: "Assistant Professor in Physics I"
+title: "Teaching Fellow in Physics I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-3
