@@ -1,7 +1,7 @@
 ---
-title: "Dark matter response to galaxy assembly history "
+title: "Dark matter response to galaxy assembly history"
 collection: publications
-permalink: /publication/2019-02-01-Dark matter response to galaxy assembly history 
+permalink: /publication/2019-02-01-Dark Matter Response
 excerpt: 'In this article, we study the properties of four Milky Way mass dark matter haloes from the Aquarius project during their assembly history, between z = 0−4.'
 date: 2019-02-01
 venue: 'A&amp;A'

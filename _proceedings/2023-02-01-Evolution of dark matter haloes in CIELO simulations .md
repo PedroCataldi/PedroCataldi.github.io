@@ -1,7 +1,7 @@
 ---
 title: "Evolution of dark matter haloes in CIELO simulations   "
-collection: publications
-permalink: /publication/2023-02-01-Evolution of dark matter haloes in CIELO simulations   
+collection: proceedings
+permalink: /proceedings/2023-02-01-Evolution of dark matter haloes in CIELO simulations   
 excerpt: 'This article analyze the dark matter (dm) halo evolution through time. For this study we use a Milky Way like haloes subsample from CIELO (ChemodynamIcal propertiEs of gaLaxies and the cOsmic web) project. This project aims at studying the formation of galaxies in different environments using zoom-ins simulations.'
 date: 2023-02-01
 venue: 'BAAA64'
