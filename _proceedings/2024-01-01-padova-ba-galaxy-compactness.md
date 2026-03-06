@@ -9,4 +9,3 @@ citation: 'Cataldi et. al. (2024)'
 ---
 This work studies the compactness of galaxies in the early Universe during the epoch of reionization. Using cosmological simulations, we explore galaxy compaction as a possible formation channel for extremely compact systems such as the recently observed little red dots.
 
-Recommended citation: Cataldi et. al. (2024)

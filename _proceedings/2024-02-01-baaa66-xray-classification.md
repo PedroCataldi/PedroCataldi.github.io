@@ -9,4 +9,3 @@ citation: 'Badaracco et. al. (2024)'
 ---
 This work develops methods to classify X-ray binaries using only X-ray observational data. The analysis explores how X-ray properties can be used to identify and distinguish different binary populations in nearby galaxies.
 
-Recommended citation: Badaracco et. al. (2024)

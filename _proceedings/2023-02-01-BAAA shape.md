@@ -12,4 +12,3 @@ This article analyze the dark matter (dm) halo evolution through time. For this 
 
 [Download paper here](http://astronomiaargentina.fcaglp.unlp.edu.ar/article/printPreview/id/39)
 
-Recommended citation: Cataldi et. al. (2023b)

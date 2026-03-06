@@ -9,4 +9,3 @@ citation: 'Pellizza et. al. (2024)'
 ---
 This work studies the populations of X-ray binaries in local galaxies, analysing their properties and distribution to better understand their formation channels and evolution.
 
-Recommended citation: Pellizza et. al. (2024)
