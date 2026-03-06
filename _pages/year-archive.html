@@ -1,14 +1,15 @@
 ---
 layout: archive
+permalink: /year-archive/
 title: "Blog posts"
-permalink: /posts/
 author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
 header:
   teaser: "/blogpost_banner.jpg"
   image_path: "/blogpost_banner.jpg"
   overlay_image: "/blogpost_banner.jpg"
 ---
-
 {% for post in site.year-archive reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
