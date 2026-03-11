@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Astrophysics, cosmology and altenartive gravity models
+Astrophysics, cosmology, and alternative gravity models
 
 Hey, thanks for stopping by! 👋
 
-I’m a postdocotral student in Numerical Astrophysics at the Institute of Astronomy and Space Physics in Buenos Aires, Argentina. Our team GANE is focused on solving challenging problems in cosmology, feedback processes and galaxy formation theory. 
+I am currently finishing my postdoctoral position in Numerical Astrophysics at the Institute of Astronomy and Space Physics in Buenos Aires, Argentina, where our team GANE has been focused on solving challenging problems in cosmology, feedback processes, and galaxy formation theory.  
 
-As a scientist, I’m broadly interested in all aspects of astronomy and cosmology and particularly in galaxy formation and galaxy clustering.
+At the same time, I am now based at the Institute of Astronomy (IA-UNAM) in Mexico, working under the Dark Energy Science Collaboration (DESC) through the Mexico Inkind contribution. My current research theme is *“Collaborating with the Mexican Participation in the LSST Collaboration at the Vera Rubin Observatory, focused on Postprocessing and Generation of Synthetic Observations derived from Cosmological Simulations of Galaxies and Galaxy Clusters.”*
 
-Previously, I completed my PhD in Physics from Buenos Aires University, which I was advised by Dr. Susana Pedrosa and worked on alternative cosmological models, baryonics physics and dark matter halo evolution while implementing a numerical approacha and with financial support by the CONICET Phd fellowship (2017) and  LACEGAL-RISE (2020).
+As a scientist, I am broadly interested in all aspects of astronomy and cosmology, particularly galaxy formation, galaxy clustering, and assembly bias.  
 
-I have recently started a postdoc in order to study the assembly bias and galaxy clustering in numerical simulations and to compare with the upcoming LSST surveys. I am currently a member of the Dark Energy Science Collaboration (DESC).
+Previously, I completed my PhD in Physics at Buenos Aires University, advised by Dr. Susana Pedrosa. My doctoral work explored alternative cosmological models, baryonic physics, and dark matter halo evolution using numerical approaches, supported by the CONICET PhD fellowship (2017) and the LACEGAL-RISE program (2020).  
 
-In my spare time, I enjoy doing sports (mostly kettlebell and running), social activities, and making plans with friends and family. 
+In my spare time, I enjoy sports (mostly kettlebell training and running), social activities, and making plans with friends and family.
