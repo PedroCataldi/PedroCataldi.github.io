@@ -1,12 +1,12 @@
 ---
 title: "Baryons shaping dark matter haloes"
 collection: publications
-permalink: /publication/2020-12-01-Baryons Shaping
+permalink: /publication/2020-12-01-Baryons_Shaping
 excerpt: 'In this work we aim at investigating the effects of baryons on the dark matter haloes structure, focusing on the correlation between the presence and importance of stellar discs and the halo shapes. We study the properties of a subsample of DM haloes from Fenix and eagle cosmological simulations.'
 date: 2020-12-01
 venue: 'MNRAS'
 paperurl: 'http://dx.doi.org/10.1093/mnras/staa3988'
-citation: 'Cataldi, et. al. (2020)'
+citation: 'Cataldi, et al. (2020)'
 ---
 
 <img src="/images/Cataldi2020.png" alt="Baryon shaping" style="display:block; margin:auto; max-width:100%;">
