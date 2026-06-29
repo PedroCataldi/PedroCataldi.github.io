@@ -11,6 +11,12 @@ header:
   teaser: "/images/Cataldi_proceeding_2023.png"
 ---
 
+{% include base_path %}
+
+{% for post in site.proceedings reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <img src="/images/Cataldi_proceeding_2023.png" alt="Evolution CIELO" style="display:block; margin:auto; max-width:100%;">
 
 This article analyze the dark matter (dm) halo evolution through time. For this study we use a Milky Way like haloes subsample from CIELO (ChemodynamIcal propertiEs of gaLaxies and the cOsmic web) project. This project aims at studying the formation of galaxies in different environments using zoom-ins simulations.

@@ -11,6 +11,12 @@ header:
   teaser: "/images/Cataldi_proceeding_2026.png"
 ---
 
+{% include base_path %}
+
+{% for post in site.proceedings reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <img src="/images/Cataldi_proceeding_2026.png" alt="Evolution CIELO" style="display:block; margin:auto; max-width:100%;">
 
 

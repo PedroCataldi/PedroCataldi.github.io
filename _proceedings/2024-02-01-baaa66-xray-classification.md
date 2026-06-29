@@ -11,6 +11,12 @@ header:
   teaser: "/images/Badaracco_proceeding_2025.png"
 ---
 
+{% include base_path %}
+
+{% for post in site.proceedings reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 <img src="/images/Badaracco_proceeding_2025.png" alt="Evolution CIELO" style="display:block; margin:auto; max-width:100%;">
 
