@@ -11,13 +11,6 @@ header:
   teaser: "/images/Badaracco_proceeding_2025.png"
 ---
 
-{% include base_path %}
-
-{% for post in site.proceedings reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 <img src="/images/Badaracco_proceeding_2025.png" alt="Evolution CIELO" style="display:block; margin:auto; max-width:100%;">
 
 This work develops methods to classify X-ray binaries using only X-ray observational data. The analysis explores how X-ray properties can be used to identify and distinguish different binary populations in nearby galaxies.

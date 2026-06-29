@@ -11,12 +11,6 @@ header:
   teaser: "/images/Pellizza_proceeding_2025.png"
 ---
 
-{% include base_path %}
-
-{% for post in site.proceedings reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 <img src="/images/Pellizza_proceeding_2025.png" alt="Evolution CIELO" style="display:block; margin:auto; max-width:100%;">
 
 This work studies the populations of X-ray binaries in local galaxies, analysing their properties and distribution to better understand their formation channels and evolution.
