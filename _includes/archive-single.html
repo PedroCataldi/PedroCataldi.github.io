@@ -18,7 +18,7 @@
     <div style="display:flex; gap:25px; align-items:flex-start;">
 
       {% if teaser %}
-      <div style="flex:0 0 220px;">
+      <div style="flex:0 0 220px; margin-top:20px;">
         <a href="{{ base_path }}{{ post.url }}">
           <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: base_path }}{% endif %}"
                alt="{{ title }}"
