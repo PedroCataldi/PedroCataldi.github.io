@@ -7,10 +7,9 @@ date: 2026-06-23
 venue: 'A&amp;A'
 paperurl: 'http://arxiv.org/abs/2603.01978'
 citation: 'Cataldi et. al. (2026)'
-header:
-  teaser: "/images/Cataldi2026.png"
-  image_path: "/images/Cataldi2026.png"
 ---
+
+<img src="/images/Cataldi2026.png" alt="HOD" style="display:block; margin:auto; max-width:100%;">
 
 I develop methods to measure the halo occupation distribution (HOD) from photometric galaxy surveys in preparation for the Vera C. Rubin Observatory LSST. Using realistic mock catalogues from cosmoDC2, I test group-finding and background subtraction techniques to study the connection between galaxies and dark matter haloes.
 

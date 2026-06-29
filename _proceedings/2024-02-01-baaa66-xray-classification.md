@@ -8,6 +8,10 @@ venue: 'BAAA66 – Annual Meeting of the Argentinian Astronomical Association'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2025BAAA...66..401B/abstract'
 citation: 'Badaracco et. al. (2024)'
 ---
+
+
+<img src="/images/Badaracco_proceeding_2025.png" alt="Evolution CIELO" style="display:block; margin:auto; max-width:100%;">
+
 This work develops methods to classify X-ray binaries using only X-ray observational data. The analysis explores how X-ray properties can be used to identify and distinguish different binary populations in nearby galaxies.
 
 [Download proceeding here](https://ui.adsabs.harvard.edu/abs/2025BAAA...66..401B/abstract)

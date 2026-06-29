@@ -8,6 +8,9 @@ venue: 'BAAA66 – Annual Meeting of the Argentinian Astronomical Association'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2025BAAA...66..377P/abstract'
 citation: 'Pellizza et. al. (2024)'
 ---
+
+<img src="/images/Pellizza_proceeding_2025.png" alt="Evolution CIELO" style="display:block; margin:auto; max-width:100%;">
+
 This work studies the populations of X-ray binaries in local galaxies, analysing their properties and distribution to better understand their formation channels and evolution.
 
 [Download proceeding here](https://ui.adsabs.harvard.edu/abs/2025BAAA...66..377P/abstract)

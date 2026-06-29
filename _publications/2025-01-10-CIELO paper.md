@@ -7,10 +7,9 @@ date: 2025-01-10
 venue: 'A&amp;A'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2025/05/aa53348-24/aa53348-24.html'
 citation: 'Tissera, et. al. (2025)'
-header:
-  teaser: "/images/Tissera2025.png"
-  image_path: "/images/Tissera2025.png"
 ---
+
+<img src="/images/Tissera2025.png" alt="CIELO" style="display:block; margin:auto; max-width:100%;">
 
 The CIELO project introduces a novel set of chemo-dynamical zoom-in simulations, designed to simultaneously resolve
 galaxies and their nearby environments.
