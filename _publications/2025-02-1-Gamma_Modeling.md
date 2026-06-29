@@ -7,6 +7,8 @@ date: 2025-02-01
 venue: 'MNRAS'
 paperurl: 'https://academic.oup.com/mnras/article/540/1/688/8131524'
 citation: 'Katsianis et al. (2025)'
+header:
+  teaser: "/images/Cataldi2025.png"
 ---
 
 <img src="/images/Katsianis2025.png" alt="Gamma" style="display:block; margin:auto; max-width:100%;">

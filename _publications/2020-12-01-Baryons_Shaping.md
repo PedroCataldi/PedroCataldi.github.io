@@ -7,6 +7,8 @@ date: 2020-12-01
 venue: 'MNRAS'
 paperurl: 'http://dx.doi.org/10.1093/mnras/staa3988'
 citation: 'Cataldi, et al. (2020)'
+header:
+  teaser: "/images/Cataldi2020.png"
 ---
 
 <img src="/images/Cataldi2020.png" alt="Baryon shaping" style="display:block; margin:auto; max-width:100%;">

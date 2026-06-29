@@ -7,6 +7,8 @@ date: 2024-03-01
 venue: 'BAAA66 – Annual Meeting of the Argentinian Astronomical Association'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2025BAAA...66..377P/abstract'
 citation: 'Pellizza et. al. (2024)'
+header:
+  teaser: "/images/Pellizza_proceeding_2025.png"
 ---
 
 <img src="/images/Pellizza_proceeding_2025.png" alt="Evolution CIELO" style="display:block; margin:auto; max-width:100%;">

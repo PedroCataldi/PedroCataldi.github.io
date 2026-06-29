@@ -7,6 +7,8 @@ date: 2025-10-06
 venue: 'A&amp;A'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2026/02/aa56078-25/aa56078-25.html'
 citation: 'Cataldi et al. (2026)'
+header:
+  teaser: "/images/Cataldi2025.png"
 ---
 
 <img src="/images/Cataldi2025.png" alt="FirstLight" style="display:block; margin:auto; max-width:100%;">

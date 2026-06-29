@@ -7,6 +7,8 @@ date: 2022-10-01
 venue: 'MNRAS'
 paperurl: ' https://doi.org/10.1093/mnras/stac2122'
 citation: 'Cataldi, et al. (2022)'
+header:
+  teaser: "/images/Cataldi2022.png"
 ---
 
 <img src="/images/Cataldi2022.png" alt="Fingerprints" style="display:block; margin:auto; max-width:100%;">

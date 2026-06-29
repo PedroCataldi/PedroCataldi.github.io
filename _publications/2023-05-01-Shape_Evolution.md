@@ -7,6 +7,8 @@ date: 2023-05-01
 venue: 'MNRAS'
 paperurl: 'https://doi.org/10.1093/mnras/stad1601'
 citation: 'Cataldi, et al. (2023)'
+header:
+  teaser: "/images/Cataldi2023.png"
 ---
 
 <img src="/images/Cataldi2023.png" alt="Redshift Shapes" style="display:block; margin:auto; max-width:100%;">

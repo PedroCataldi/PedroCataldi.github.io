@@ -7,6 +7,8 @@ date: 2024-02-01
 venue: 'BAAA66 – Annual Meeting of the Argentinian Astronomical Association'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2025BAAA...66..401B/abstract'
 citation: 'Badaracco et. al. (2024)'
+header:
+  teaser: "/images/Badaracco_proceeding_2025.png"
 ---
 
 

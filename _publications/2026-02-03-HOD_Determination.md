@@ -7,6 +7,8 @@ date: 2026-06-23
 venue: 'A&amp;A'
 paperurl: 'http://arxiv.org/abs/2603.01978'
 citation: 'Cataldi et al. (2026)'
+header:
+  teaser: "/images/Cataldi2026.png"
 ---
 
 <img src="/images/Cataldi2026.png" alt="HOD" style="display:block; margin:auto; max-width:100%;">
