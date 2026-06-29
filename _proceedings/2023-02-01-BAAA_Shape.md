@@ -6,16 +6,10 @@ excerpt: 'This article analyze the dark matter (dm) halo evolution through time.
 date: 2023-02-01
 venue: 'BAAA64'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2023BAAA...64..178C/abstract'
-citation: 'Cataldi et. al. (2023b)'
+citation: 'Cataldi et al. (2023b)'
 header:
   teaser: "/images/Cataldi_proceeding_2023.png"
 ---
-
-{% include base_path %}
-
-{% for post in site.proceedings reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 <img src="/images/Cataldi_proceeding_2023.png" alt="Evolution CIELO" style="display:block; margin:auto; max-width:100%;">
 

@@ -9,6 +9,8 @@ header:
   overlay_image: "/proceedings_banner.jpg"
 ---
 
+{% include base_path %}
+
 {% for post in site.proceedings reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-single.html %}
 {% endfor %}

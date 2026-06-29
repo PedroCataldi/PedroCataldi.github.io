@@ -8,7 +8,7 @@ venue: 'A&amp;A'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2025/05/aa53348-24/aa53348-24.html'
 citation: 'Tissera, et al. (2025)'
 header:
-  teaser: "/images/Cataldi2025.png"
+  teaser: "/images/Tissera2025.png"
 ---
 
 <img src="/images/Tissera2025.png" alt="CIELO" style="display:block; margin:auto; max-width:100%;">
