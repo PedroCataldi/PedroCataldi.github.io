@@ -84,7 +84,7 @@ author:
   avatar           : "profile2.jpeg"
   bio              : "I am a postdoctoral researcher at the Instituto de Astronomía of the Universidad Nacional Autónoma de México (IA-UNAM) in Mexico City. My research focuses on using numerical simulations to study galaxy formation, galaxy sizes, and large-scale structure. I am also a member of the LSST Dark Energy Science Collaboration (DESC)."  
   location         : "CDMX, Mexico"
-  employer         : "IA-UNAM"
+  employer         : "https://astronomia.unam.mx/comunidad/cataldi-pedro/"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WNjhptsAAAAJ&hl=es" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -99,7 +99,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : "https://https://astronomia.unam.mx/comunidad/cataldi-pedro/"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-7201-8662"
