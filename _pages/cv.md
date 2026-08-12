@@ -10,23 +10,23 @@ redirect_from:
 
 {% include base_path %}
 <p align="left">
-<img src="/images/Pedro_Cataldi_CV__english_.pdf-1.png"  width="700" height="200">
+<img src="/images/Pedro_Cataldi_CV__english_-0.png"  width="700" height="200">
 </p>
 
 <p align="left">
-<img src="/images/Pedro_Cataldi_CV__english_.pdf-2.png"  width="700" height="200">
+<img src="/images/Pedro_Cataldi_CV__english_-1.png"  width="700" height="200">
 </p>
 
 <p align="left">
-<img src="/images/Pedro_Cataldi_CV__english_.pdf-3.png"  width="700" height="100">
+<img src="/images/Pedro_Cataldi_CV__english_.-2.png"  width="700" height="100">
 </p>
 
 <p align="left">
-<img src="/images/Pedro_Cataldi_CV__english_.pdf-4.png"  width="700" height="100">
+<img src="/images/Pedro_Cataldi_CV__english_.-3.png"  width="700" height="100">
 </p>
 
 <p align="left">
-<img src="/images/Pedro_Cataldi_CV__english_.pdf-5.png"  width="700" height="100">
+<img src="/images/Pedro_Cataldi_CV__english_.-4.png"  width="700" height="100">
 </p>
 
 Publications
