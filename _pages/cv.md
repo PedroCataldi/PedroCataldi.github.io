@@ -18,15 +18,15 @@ redirect_from:
 </p>
 
 <p align="left">
-<img src="/images/Pedro_Cataldi_CV__english_.-2.png"  width="700" height="100">
+<img src="/images/Pedro_Cataldi_CV__english_-2.png"  width="700" height="100">
 </p>
 
 <p align="left">
-<img src="/images/Pedro_Cataldi_CV__english_.-3.png"  width="700" height="100">
+<img src="/images/Pedro_Cataldi_CV__english_-3.png"  width="700" height="100">
 </p>
 
 <p align="left">
-<img src="/images/Pedro_Cataldi_CV__english_.-4.png"  width="700" height="100">
+<img src="/images/Pedro_Cataldi_CV__english_-4.png"  width="700" height="100">
 </p>
 
 Publications
