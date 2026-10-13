@@ -39,3 +39,18 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.cv-images {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+.cv-images img {
+  display: block;
+  width: 700px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 2px auto;
+  padding: 0;
+}

@@ -7,35 +7,17 @@ redirect_from:
   - /resume
 ---
 
-
 {% include base_path %}
-<p align="left">
-<img src="/images/Pedro_Cataldi_CV_0.png"  width="700" height="200">
-</p>
 
-<p align="left">
-<img src="/images/Pedro_Cataldi_CV_1.png"  width="700" height="200">
-</p>
-
-<p align="left">
-<img src="/images/Pedro_Cataldi_CV_2.png"  width="700" height="100">
-</p>
-
-<p align="left">
-<img src="/images/Pedro_Cataldi_CV_3.png"  width="700" height="100">
-</p>
-
-<p align="left">
-<img src="/images/Pedro_Cataldi_CV_4.png"  width="700" height="100">
-</p>
-
-<p align="left">
-<img src="/images/Pedro_Cataldi_CV_5.png"  width="700" height="100">
-</p>
-
-<p align="left">
-<img src="/images/Pedro_Cataldi_CV_6.png"  width="700" height="100">
-</p>
+<div class="cv-images">
+  <img src="/images/Pedro_Cataldi_CV_0.png" alt="CV page 1">
+  <img src="/images/Pedro_Cataldi_CV_1.png" alt="CV page 2">
+  <img src="/images/Pedro_Cataldi_CV_2.png" alt="CV page 3">
+  <img src="/images/Pedro_Cataldi_CV_3.png" alt="CV page 4">
+  <img src="/images/Pedro_Cataldi_CV_4.png" alt="CV page 5">
+  <img src="/images/Pedro_Cataldi_CV_5.png" alt="CV page 6">
+  <img src="/images/Pedro_Cataldi_CV_6.png" alt="CV page 7">
+</div>
 
 Publications
 ======
