@@ -16,7 +16,6 @@ redirect_from:
   <img src="/images/Pedro_Cataldi_CV_3.png" alt="CV page 4">
   <img src="/images/Pedro_Cataldi_CV_4.png" alt="CV page 5">
   <img src="/images/Pedro_Cataldi_CV_5.png" alt="CV page 6">
-  <img src="/images/Pedro_Cataldi_CV_6.png" alt="CV page 7">
 </div>
 
 Publications
